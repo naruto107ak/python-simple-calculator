@@ -1,1 +1,1 @@
-made a simple python calculator for basic operations like addition,subtraction,multiplication and division
+made a data base management system for a salon
